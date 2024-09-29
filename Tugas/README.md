@@ -1,11 +1,11 @@
 Tampilan Utama Aplikasi Nasabah Bank
 
-![Picture1](Tugas/ss/Picture1.png)
+![Picture1](ss/Picture1.png)
 
 menu reset
 
-![Picture2](Tugas/ss/Picture2.png)
+![Picture2](ss/Picture2.png)
 
 textArea list
 
-![Picture3](Tugas/ss/Picture3.png)
+![Picture3](ss/Picture3.png)
