@@ -1,0 +1,8 @@
+<project>
+  <repositories>
+    <repository>
+      <id>PPII</id>
+      <url>https://github.com/aldiipratama/PPII.git</url>
+    </repository>
+  </repositories>
+</project>
