@@ -1,4 +1,8 @@
 <project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>alxdyy.blogspot.com</groupId>
+  <artifactId>PPII</artifactId>
+  <version>1</version>
   <repositories>
     <repository>
       <id>PPII</id>
