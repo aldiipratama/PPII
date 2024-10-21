@@ -12,6 +12,7 @@ Selamat datang di repositori PPII (Praktikum Pemrograman II) Semester 5! Reposit
 - [`Sesi 2`](Tugas/Sesi%202/): Materi dan tugas untuk sesi kedua
 - [`Sesi 3`](Tugas/Sesi%203/): Materi dan tugas untuk sesi ketiga
 - [`Sesi 4`](Tugas/Sesi%204/): Materi dan tugas untuk sesi keempat
+- [`Sesi 5`](Tugas/Sesi%205/): Materi dan tugas untuk sesi kelima
 - ...
 
 ## Cara Menggunakan Repositori Ini
