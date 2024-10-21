@@ -13,7 +13,7 @@ Sesi 5/
   |- JTableAddRemoveRowExample.java //contoh aplikasi desktop menampilkan tabel dan button tambah baris serta delete baris dan edit setiap kolom dengan double klik
   |- JTableEditableExample.java //contoh aplikasi desktop menampilkan tabel dan hanya bisa mengedit kolom nama dengan double klik 
   |- JTableExample.java //contoh aplikasi desktop menampilkan table dan bisa mengedit semua kolom dengan double klik
-  |- JTableSortExample.java //contoh aplikasi desktop menampilkan table dengan baris yang urut secara otomatis
+  |- JTableSortExample.java //contoh aplikasi desktop menampilkan table dengan baris yang urut secara otomatis ketika mengklik kolom ID
   |- README.md //file ini
 ```
 
