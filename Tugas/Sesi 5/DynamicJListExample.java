@@ -3,7 +3,7 @@ import javax.swing.*;
 
 public class DynamicJListExample {
   public static void main(String[] args) {
-    JFrame frame = new JFrame("Dynamic JList Example");
+    JFrame frame = new JFrame("Dynamic JListExample");
 
     // Membuat DefaultListModel
     DefaultListModel<String> listModel = new DefaultListModel<>();

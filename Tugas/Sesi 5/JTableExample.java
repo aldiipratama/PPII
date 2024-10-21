@@ -5,7 +5,7 @@ public class JTableExample {
   public static void main(String[] args) {
 
     // Membuat frame
-    JFrame frame = new JFrame("JTable Example");
+    JFrame frame = new JFrame("JTableExample");
 
     // Membuat tabel dengan data awal dan header kolom
     String[] columnNames = { "ID", "Name", "Age" };

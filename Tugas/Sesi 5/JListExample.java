@@ -3,7 +3,7 @@ import javax.swing.event.ListSelectionEvent;
 
 public class JListExample {
   public static void main(String[] args) {
-    JFrame frame = new JFrame("JList Example");
+    JFrame frame = new JFrame("JListExample");
 
     // Data untuk JList
     String[] items = { "Item 1", "Item 2", "Item 3", "Item 4", "Item 5" };

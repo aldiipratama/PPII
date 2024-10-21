@@ -3,7 +3,7 @@ import javax.swing.*;
 
 public class ComboBoxExample {
   public static void main(String[] args) {
-    JFrame frame = new JFrame("JComboBox Example");
+    JFrame frame = new JFrame("JComboBoxExample");
     String[] options = { "Option 1", "Option 2", "Option 3", "Option 4" };
 
     // Membuat JComboBox dengan opsi

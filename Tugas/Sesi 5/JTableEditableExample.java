@@ -3,7 +3,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class JTableEditableExample {
   public static void main(String[] args) {
-    JFrame frame = new JFrame("JTable Editable Example");
+    JFrame frame = new JFrame("JTableEditableExample");
     String[] columnNames = { "ID", "Name", "Age" };
     Object[][] data = {
         { 1, "John", 25 },

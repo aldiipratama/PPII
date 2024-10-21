@@ -3,7 +3,7 @@ import javax.swing.table.DefaultTableModel;
 
 public class JTableSortExample {
   public static void main(String[] args) {
-    JFrame frame = new JFrame("JTable Sorting Example");
+    JFrame frame = new JFrame("JTableSortingExample");
 
     String[] columnNames = { "ID", "Name", "Age" };
     Object[][] data = {

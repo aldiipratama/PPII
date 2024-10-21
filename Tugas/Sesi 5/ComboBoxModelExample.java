@@ -3,7 +3,7 @@ import javax.swing.*;
 
 public class ComboBoxModelExample {
   public static void main(String[] args) {
-    JFrame frame = new JFrame("ComboBoxModel Example");
+    JFrame frame = new JFrame("ComboBoxModelExample");
 
     // Membuat model dengan opsi
     DefaultComboBoxModel<String> comboBoxModel = new DefaultComboBoxModel<>();
