@@ -11,6 +11,7 @@ public class JTableSortExample {
         { 3, "Mike", 35 },
         { 2, "Anna", 30 },
     };
+
     DefaultTableModel model = new DefaultTableModel(data, columnNames);
     JTable table = new JTable(model);
 

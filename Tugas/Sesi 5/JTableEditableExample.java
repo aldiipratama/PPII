@@ -10,10 +10,12 @@ public class JTableEditableExample {
         { 2, "Anna", 30 },
         { 3, "Mike", 35 },
     };
+
     // Membuat DefaultTableModel dengan data dan header
     DefaultTableModel model = new DefaultTableModel(data, columnNames) {
       @Override
       public boolean isCellEditable(int row, int column) {
+
         // Hanya kolom 'Name' yang dapat diedit
         return column == 1;
       }

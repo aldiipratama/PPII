@@ -21,6 +21,7 @@ public class JTableAddRemoveRowExample {
         model.addRow(newRow);
       }
     });
+
     // Tombol untuk menghapus baris yang dipilih
     JButton removeButton = new JButton("Remove Row");
     removeButton.setBounds(160, 220, 120, 30);
@@ -32,9 +33,11 @@ public class JTableAddRemoveRowExample {
         }
       }
     });
+
     // JScrollPane untuk JTable
     JScrollPane scrollPane = new JScrollPane(table);
     scrollPane.setBounds(20, 20, 300, 180);
+
     // Menambahkan komponen ke JFrame
     frame.setLayout(null);
     frame.add(scrollPane);
